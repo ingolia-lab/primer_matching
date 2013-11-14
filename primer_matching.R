@@ -1,3 +1,4 @@
+# Hello world!
 require("Biostrings")
 # TODO detect if the package is installed, and run the installer script if it 
 # isn't. Would require an internet connection.
