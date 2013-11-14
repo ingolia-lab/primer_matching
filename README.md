@@ -2,6 +2,7 @@ primer_matching
 ===============
 
 An R script to find sequencing primers useful to the plasmid at hand
+
 Nicholas McGlincy, 27th July 2013, Baltimore MD, USA
 
 Requires R, and a version advanced enough to run the Biostrings package. I 
